@@ -1,0 +1,3 @@
+class prompt extends GameObject{
+    
+}

@@ -8,5 +8,5 @@ my first project - making room escape game use vanilla javascript
 <br><br><br>
 
 &nbsp;
-<a href="https://github.com/cho1ok/PORTFOLIO">🔮 포트폴리오 보러가기 🔮</a>
+<a href="https://github.com/cho1ok/PORTFOLIO">🔮 PORTFOLIO 🔮</a>
 <br><br>

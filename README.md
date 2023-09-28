@@ -1,7 +1,6 @@
 
 
 1st project - 방탈출게임
--------
 my first project - making room escape game use vanilla javascript
 <br><br><br><br>
 
